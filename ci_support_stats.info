@@ -1,0 +1,5 @@
+name = Support Stats
+description = Provide statistics for Circles Ticketing system
+core = 7.x
+package = Circle
+
